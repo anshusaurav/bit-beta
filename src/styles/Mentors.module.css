@@ -1,0 +1,8 @@
+.slider-container {
+    display: flex;
+}
+
+.slick-track {
+    display: flex;
+    flex-wrap: wrap;
+}
